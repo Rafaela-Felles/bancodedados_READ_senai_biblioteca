@@ -1,1 +1,1 @@
-##atividades na pasta bcd
+atividades na pasta bcd
